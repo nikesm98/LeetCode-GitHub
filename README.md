@@ -51,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0075-sort-colors) |
 | [0792-binary-search](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikesm98/LeetCode-GitHub/tree/master/1019-squares-of-a-sorted-array) |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0792-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
