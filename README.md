@@ -77,4 +77,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
