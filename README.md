@@ -51,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0075-sort-colors) |
 | [0792-binary-search](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0792-binary-search) |
@@ -68,6 +69,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0792-binary-search](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
