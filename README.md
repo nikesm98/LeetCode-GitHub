@@ -57,6 +57,7 @@
 | [0053-maximum-subarray](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -78,6 +79,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0882-peak-index-in-a-mountain-array) |
