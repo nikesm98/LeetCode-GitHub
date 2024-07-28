@@ -95,4 +95,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/nikesm98/LeetCode-GitHub/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/nikesm98/LeetCode-GitHub/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
