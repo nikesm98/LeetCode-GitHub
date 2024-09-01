@@ -51,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0035-search-insert-position) |
@@ -65,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nikesm98/LeetCode-GitHub/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikesm98/LeetCode-GitHub/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
